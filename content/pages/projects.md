@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides some topic suggestions.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
